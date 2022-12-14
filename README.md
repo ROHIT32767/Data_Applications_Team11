@@ -15,5 +15,5 @@ This repo contains the solutions for assignments/projects given to us at IIIT Hy
 
 # Credits:
 * Gnana Prakash Punnavajhala - [Github](https://github.com/GnanaPrakashSG2004)
-* Myself :) - [Github](https://github.com/Abhinavreddy-B)
-* Rohit Gowlapalli - [Github](https://github.com/ROHIT32767)
+* Abhinav Reddy Boddu :) - [Github](https://github.com/Abhinavreddy-B)
+* Me - [Github](https://github.com/ROHIT32767)
